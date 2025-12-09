@@ -1,0 +1,7 @@
+th {
+  color: #008b8b;
+}
+th, td {
+  padding: 8px;
+  text-align: center;
+}
